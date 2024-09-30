@@ -15,7 +15,7 @@ jobs:
           namespace: RU_Yggdrasil
           description: Modpack for the Yggdrasil server.
           token: ${{ secrets.YOUR_TOKEN_NAME }}
-          name: Efernaunt-ModPack
+          name: Yggdrasil-ModPack
           version: ${{ github.ref_name }}
           community: valheim
           repo: valheim.thunderstore.io
