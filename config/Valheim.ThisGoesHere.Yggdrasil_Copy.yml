@@ -1,0 +1,6 @@
+PrintComment: Copying modified config files for Yggdrasil
+CopyFile:
+- From: config/Yggdrasil/BepInEx.cfg
+  To: config/BepInEx.cfg
+- From: config/Yggdrasil/aedenthorn.CustomAudio.cfg
+  To: config/aedenthorn.CustomAudio.cfg

@@ -1,6 +1,6 @@
 {
   "name": "Yggdrasil_ModPack",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://discord.gg/7Er8AQgvCT",
   "description": "Modpack for the Yggdrasil server",
   "dependencies": [
@@ -9,7 +9,6 @@
     "Azumatt-AzuAntiCheat-4.3.8",
     "Azumatt-DeathPinRemoval-1.0.5",
     "Azumatt-Recycle_N_Reclaim-1.3.4",
-    "Azumatt-Third_Eye-2.1.6",
     "Balrond-balrond_shipyard-1.4.9",
     "BetterSounds-BetterSounds-0.30.1",
     "ComfyMods-Gizmo-1.11.0",
@@ -35,20 +34,20 @@
     "OdinPlus-OdinsFoodBarrels-1.0.26",
     "RandyKnapp-EpicLoot-0.10.3",
     "RandyKnapp-EquipmentAndQuickSlots-2.1.13",
+    "rendl0449-CraftFromContainers-3.5.3",
     "RockerKitten-BoneAppetit-3.3.1",
+    "Roses-SmarterContainers-1.7.0",
     "RustyMods-AlmanacClassSystem-0.5.5",
-    "RustyMods-Seasonality-3.3.11",
-    "RustyMods-SeasonalityTextures-1.0.0",
+    "RustyMods-Seasonality-3.4.0",
+    "RustyMods-SeasonalityTextures-1.0.1",
     "Smoothbrain-Cooking-1.1.16",
     "Smoothbrain-StartupAccelerator-1.0.3",
     "Smoothbrain-SteadyRegeneration-1.0.2",
-    "TastyChickenLegs-LongerDays-1.0.9",
     "Therzie-Armory-1.2.2",
     "Therzie-Monstrum-1.4.3",
     "Therzie-Warfare-1.7.6",
     "Therzie-Wizardry-1.1.1",
     "Thordomr-Display_Day_and_Time_in_HUD-1.1.2",
-    "ValheimModding-Jotunn-2.20.3",
-    "Visteus-Valheim_Legends_Fork-0.7.4"
+    "ValheimModding-Jotunn-2.20.3"
   ]
 }
