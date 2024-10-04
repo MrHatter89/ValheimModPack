@@ -1,5 +1,18 @@
 #
 
+## 1.0.2
+
+- Update
+  - Mod: Third_EyeSeasonality-3.4.1
+- Add
+  - Mod: AAA_Crafting
+  - Mod: SearsCatalog
+  - Mod: HS_EquipInWater
+  - Config: CraftFromContainers
+  - Config: SmartContainers
+- Remove
+  - Mod: UseEquipmentInWater
+
 ## 1.0.1
 
 - Remove
