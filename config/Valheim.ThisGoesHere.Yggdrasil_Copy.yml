@@ -4,3 +4,7 @@ CopyFile:
   To: config/BepInEx.cfg
 - From: config/Yggdrasil/aedenthorn.CustomAudio.cfg
   To: config/aedenthorn.CustomAudio.cfg
+- From: config/Yggdrasil/flueno.SmartContainers.cfg
+  To: config/flueno.SmartContainers.cfg
+- From: config/Yggdrasil/aedenthorn.CraftFromContainers.cfg
+  To: config/aedenthorn.CraftFromContainers.cfg

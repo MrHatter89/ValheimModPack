@@ -1,9 +1,14 @@
 #
 
+## 1.0.3
+
+- Update
+  - Config: ThisGoesHere.Yggdrasil_Copy
+
 ## 1.0.2
 
 - Update
-  - Mod: Third_EyeSeasonality-3.4.1
+  - Mod: Seasonality-3.4.1
 - Add
   - Mod: AAA_Crafting
   - Mod: SearsCatalog
